@@ -1,6 +1,6 @@
 [bold]CentComm Jobs[/bold]
 
-Blueshield Officer (Funky)
+Blueshield Officer (Deprecated, Funky)
 [color=#1b67a5]
 ╔════════════╗
 ║░░░░░░░░░░░░║
@@ -44,11 +44,9 @@ Internal Affairs Agent (Lawyer but in Sec colors)
 ╚════════════╝
 [/color]
 [color=#cb0000]
-
-░░░▄░░ 
-░░▀██▄ 
-░▄▀░▀░ 
-░░░░░░
+░░▄█▄░
+░░▄▀█▀
+░▀░░░░
 [/color]
 Magistrate (Lawyer but in Command colors)
 [color=#1b67a5]
@@ -62,11 +60,9 @@ Magistrate (Lawyer but in Command colors)
 ╚════════════╝
 [/color]
 [color=#1b67a5]
-
-░░░▄░░ 
-░░▀██▄ 
-░▄▀░▀░ 
-░░░░░░
+░░▄█▄░
+░░▄▀█▀
+░▀░░░░
 [/color]
 NanoTrasen Representative
 [color=#1b67a5]
