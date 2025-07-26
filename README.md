@@ -7,6 +7,8 @@ These documents are made with Funky Station servers in mind, given that it's whe
 
 If you have any suggestions, feel free to reach out on Discord: tunnel_master 
 
+Most of these documents have been made using [this fantastic document editor](https://yagwog.github.io/RMC14-document-simu/).
+
 Moomoobeef's forms are available [here](https://github.com/Moomoobeef/ss14-forms-txt).
 
 Tyto's forms are available [here](https://github.com/TheTyto/SS14-Advanced-Paperwork).
