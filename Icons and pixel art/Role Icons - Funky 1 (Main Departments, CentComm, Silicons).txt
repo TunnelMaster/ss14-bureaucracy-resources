@@ -33,23 +33,23 @@ Internal Affairs Agent
 ░▀░░░░
 [/color]
 Magistrate
-[color=#2789cd]
+[color=#477238]
 ╔════════════╗
-║░░░░░░██░░░░║
-║░░░░██████░░║
 ║░░░░░░██████║
-║░░░░██░░██░░║
-║░░██░░░░░░░░║
-║░░░░░░██████║
+║░░░░████░░██║
+║░░░░██░░████║
+║░░██░░████░░║
+║░░████░░░░░░║
+║██░░░░░░░░░░║
 ╚════════════╝
 [/color]
-[color=#2789cd]
-░░▄█▄░
-░░▄▀█▀
-░▀░▄▄▄
+[color=#477238]
+░░▄█▀█
+░▄▀▄█▀
+▄▀▀░░░
 [/color]
 NanoTrasen Representative
-[color=#2789cd]
+[color=#477238]
 ╔════════════╗
 ║██░░░░██░░░░║
 ║████░░██░░░░║
@@ -59,7 +59,7 @@ NanoTrasen Representative
 ║░░░░░░░░██░░║
 ╚════════════╝
 [/color]
-[color=#2789cd]
+[color=#477238]
 █▄░█░░
 █░▀██▀
 ░░░░█░
@@ -330,7 +330,7 @@ Chief Engineer (CE)
 ██▀░░░
 [/color]
 Atmospheric Technician
-[color=#d6a851]
+[color=#f7b060]
 ╔════════════╗
 ║░░████░░░░░░║
 ║██░░░░██░░░░║
@@ -340,13 +340,13 @@ Atmospheric Technician
 ║░░░░░░██████║
 ╚════════════╝
 [/color]
-[color=#d6a851]
+[color=#f7b060]
 ▄▀▀▄░░
 ▀▄▄▀▀▄
 ░░░▄█▄
 [/color]
 Station Engineer
-[color=#d6a851]
+[color=#f7b060]
 ╔════════════╗
 ║░░░░░░██░░░░║
 ║░░░░██░░░░░░║
@@ -356,13 +356,13 @@ Station Engineer
 ║████░░░░░░░░║
 ╚════════════╝
 [/color]
-[color=#d6a851]
+[color=#f7b060]
 ░░▄▀░░
 ░▄█▄▄▀
 ██▀░░░
 [/color]
 Technical Assistant
-[color=#d6a851]
+[color=#f7b060]
 ╔════════════╗
 ║░░████████░░║
 ║████░░░░░░██║
@@ -372,7 +372,7 @@ Technical Assistant
 ║████░░░░░░██║
 ╚════════════╝
 [/color]
-[color=#d6a851]
+[color=#f7b060]
 ▄█▀▀▀▄
 ██▀▀▀█
 ██░░░█
@@ -397,7 +397,7 @@ Chief Medical Officer (CMO)
 ░░██░░
 [/color]
 Paramedic
-[color=#88a3bc]
+[color=#42bfe8]
 ╔════════════╗
 ║░░██░░░░██░░║
 ║████░░░░████║
@@ -407,13 +407,13 @@ Paramedic
 ║░░██░░░░██░░║
 ╚════════════╝
 [/color]
-[color=#88a3bc]
+[color=#42bfe8]
 ▄█░░█▄
 ░░░░░░
 ▀█░░█▀
 [/color]
 Chemist
-[color=#88a3bc]
+[color=#42bfe8]
 ╔════════════╗
 ║░░░░████░░░░║
 ║░░░░████░░░░║
@@ -423,13 +423,13 @@ Chemist
 ║░░████████░░║
 ╚════════════╝
 [/color]
-[color=#88a3bc]
+[color=#42bfe8]
 ░░██░░
 ░▄▀▀▄░
 ▀▄▄▄▄▀
 [/color]
 Psychologist
-[color=#88a3bc]
+[color=#42bfe8]
 ╔════════════╗
 ║░░░░░░░░██░░║
 ║░░░░░░██████║
@@ -439,13 +439,13 @@ Psychologist
 ║████████████║
 ╚════════════╝
 [/color]
-[color=#88a3bc]
+[color=#42bfe8]
 ░░░▄█▄
 ░░░░▀░
 ▄▄▄▄▄▄
 [/color]
 Medical Doctor
-[color=#88a3bc]
+[color=#42bfe8]
 ╔════════════╗
 ║░░░░████░░░░║
 ║░░░░████░░░░║
@@ -455,13 +455,13 @@ Medical Doctor
 ║░░░░████░░░░║
 ╚════════════╝
 [/color]
-[color=#88a3bc]
+[color=#42bfe8]
 ░░██░░
 ██████
 ░░██░░
 [/color]
 Medical Intern 
-[color=#88a3bc]
+[color=#42bfe8]
 ╔════════════╗
 ║░░████████░░║
 ║████░░░░░░██║
@@ -471,7 +471,7 @@ Medical Intern
 ║████░░░░░░██║
 ╚════════════╝
 [/color]
-[color=#88a3bc]
+[color=#42bfe8]
 ▄█▀▀▀▄
 ██▀▀▀█
 ██░░░█
@@ -496,7 +496,7 @@ Research Director (RD)
 ░▄▀▀▄░
 [/color]
 Scientist
-[color=#c98dad]
+[color=#7864c6]
 ╔════════════╗
 ║░░██░░░░██░░║
 ║░░░░████░░░░║
@@ -506,13 +506,13 @@ Scientist
 ║░░██░░░░██░░║
 ╚════════════╝
 [/color]
-[color=#c98dad]
+[color=#7864c6]
 ░▀▄▄▀░
 ░█░░█░
 ░▄▀▀▄░
 [/color]
 Roboticist
-[color=#c98dad]
+[color=#7864c6]
 ╔════════════╗
 ║░░░░░░░░██░░║
 ║████████░░██║
@@ -522,13 +522,13 @@ Roboticist
 ║░░██░░░░░░░░║
 ╚════════════╝
 [/color]
-[color=#c98dad]
+[color=#7864c6]
 ▄▄▄▄▀▄
 ░▄░░▀░
 ▀▄▀▀▀▀
 [/color]
 Research Assistant
-[color=#c98dad]
+[color=#7864c6]
 ╔════════════╗
 ║░░████████░░║
 ║████░░░░░░██║
@@ -538,7 +538,7 @@ Research Assistant
 ║████░░░░░░██║
 ╚════════════╝
 [/color]
-[color=#c98dad]
+[color=#7864c6]
 ▄█▀▀▀▄
 ██▀▀▀█
 ██░░░█
