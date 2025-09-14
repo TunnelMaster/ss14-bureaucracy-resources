@@ -1,6 +1,4 @@
-Disclaimer: based on v3x3d Micro Chat font
-
-▀▄█
+DISCLAIMER: In their current state, these will only read correctly if used in monospace!
 
  ▄▄▄ 
 █▄▄▄█
@@ -195,4 +193,5 @@ Disclaimer: based on v3x3d Micro Chat font
 ▄█▄▄▄
 
 ▀▀█▀
+
 ▄█▄▄
